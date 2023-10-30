@@ -1,0 +1,7 @@
+C:\Users\rhali\source\repos\Тортики\Тортики\bin\Debug\Тортики.exe.config
+C:\Users\rhali\source\repos\Тортики\Тортики\bin\Debug\Тортики.exe
+C:\Users\rhali\source\repos\Тортики\Тортики\bin\Debug\Тортики.pdb
+C:\Users\rhali\source\repos\Тортики\Тортики\obj\Debug\Тортики.csproj.AssemblyReference.cache
+C:\Users\rhali\source\repos\Тортики\Тортики\obj\Debug\Тортики.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\Тортики\Тортики\obj\Debug\Тортики.exe
+C:\Users\rhali\source\repos\Тортики\Тортики\obj\Debug\Тортики.pdb
